@@ -1,0 +1,20 @@
+{
+  "loader": "forge:obj",
+  "model": "hostilenetworks:models/block/v9/sim_terminal.obj",
+  "flip_v": false,
+  "automatic_culling": false,
+  "shade_quads": true,
+  "emissive_ambient": false,
+  "render_type": "minecraft:cutout",
+  "textures": {
+    "foundation": "create:block/andesite_casing_short",
+    "floor": "create:block/andesite_block",
+    "case": "create:block/andesite_block",
+    "case_top": "create:block/industrial_iron_block_top",
+    "iron_case": "create:block/industrial_iron_block",
+    "bearing": "create:block/mechanical_bearing_side",
+    "wood_bracket": "create:block/bracket_wooden",
+    "atlas": "hostilenetworks:block/v9/sim_chamber",
+    "particle": "create:block/andesite_block"
+  }
+}

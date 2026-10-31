@@ -1,0 +1,15 @@
+Asset license scopes
+
+NetMusic-derived terminal appearance and Kaleidoscope Tavern-derived glass resources
+retain Creative Commons Attribution-NonCommercial-ShareAlike 4.0 terms.
+Attribution, the license link and the description of modifications are provided in CREDITS.txt.
+https://creativecommons.org/licenses/by-nc-sa/4.0/
+
+Unmodified Hostile Neural Networks prediction textures retain the MIT license and
+Brennan Ward copyright notice in LICENSE-HNN.txt.
+
+Create native textures are resolved from the installed Create mod, rather than
+redistributed as source PNG files in this resource pack.
+
+Other contributions retain their respective ownership; this notice does not
+replace component licenses with a blanket code license.

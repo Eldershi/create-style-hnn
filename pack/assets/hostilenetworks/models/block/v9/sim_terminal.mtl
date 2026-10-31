@@ -1,0 +1,23 @@
+newmtl screen
+Kd 1 1 1
+Ka 0 0 0
+Ks 0 0 0
+d 1
+forge_TintIndex -1
+map_Kd #atlas
+
+newmtl case
+Kd 1 1 1
+Ka 0 0 0
+Ks 0 0 0
+d 1
+forge_TintIndex -1
+map_Kd #case
+
+newmtl case_top
+Kd 1 1 1
+Ka 0 0 0
+Ks 0 0 0
+d 1
+forge_TintIndex -1
+map_Kd #case_top

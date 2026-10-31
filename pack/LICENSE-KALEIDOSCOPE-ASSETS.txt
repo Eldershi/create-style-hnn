@@ -1,0 +1,11 @@
+Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International
+
+Copyright (c) 2025, Kaleidoscope Official Production Team
+
+Kaleidoscope Tavern assets are licensed under Creative Commons
+Attribution-NonCommercial-ShareAlike 4.0 International.
+Original license: https://github.com/KaleidoscopeMods/KaleidoscopeTavern/blob/main/LICENSE-ASSETS
+License: https://creativecommons.org/licenses/by-nc-sa/4.0/
+Legal code: https://creativecommons.org/licenses/by-nc-sa/4.0/legalcode
+
+The size, mapping and color adaptations are described in CREDITS.txt.

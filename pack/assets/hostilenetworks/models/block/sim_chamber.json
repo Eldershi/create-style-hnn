@@ -1,0 +1,51 @@
+{
+  "parent": "minecraft:block/block",
+  "loader": "forge:composite",
+  "children": {
+    "structure": {
+      "parent": "hostilenetworks:block/v9/sim_structure"
+    },
+    "terminal": {
+      "parent": "hostilenetworks:block/v9/sim_terminal"
+    }
+  },
+  "textures": {
+    "particle": "create:block/andesite_block"
+  },
+  "display": {
+    "gui": {
+      "rotation": [
+        30,
+        225,
+        0
+      ],
+      "translation": [
+        0,
+        0,
+        0
+      ],
+      "scale": [
+        0.625,
+        0.625,
+        0.625
+      ]
+    },
+    "ground": {
+      "rotation": [
+        0,
+        0,
+        0
+      ],
+      "translation": [
+        0,
+        3,
+        0
+      ],
+      "scale": [
+        0.25,
+        0.25,
+        0.25
+      ]
+    }
+  }
+}

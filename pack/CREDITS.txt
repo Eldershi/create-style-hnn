@@ -1,0 +1,23 @@
+Create Style HNN — resource credits
+
+Hostile Neural Networks — Brennan Ward / Shadows_of_Fire.
+https://github.com/Shadows-of-Fire/Hostile-Neural-Networks
+Original prediction textures retain their MIT notice in LICENSE-HNN.txt.
+
+NetMusic — TartaricAcid and contributors.
+https://github.com/TartaricAcid/NetMusic
+Terminal appearance uses NetMusic design references and adapted reflection patterns.
+Asset terms: CC BY-NC-SA 4.0; see LICENSE-NETMUSIC-ASSETS.txt.
+
+Kaleidoscope Tavern — Kaleidoscope Official Production Team,
+KaleidoscopeMods / ysbbbbbb / TartaricAcid.
+https://github.com/KaleidoscopeMods/KaleidoscopeTavern
+Glass geometry and pattern are adapted in size, pixel spacing and dark green palette.
+The glass cover has a transparent outer roof and an opaque inner underside.
+Asset terms: CC BY-NC-SA 4.0; see LICENSE-KALEIDOSCOPE-ASSETS.txt.
+
+Create — The Create Team / The Creators of Create.
+https://github.com/Creators-of-Create/Create
+Native materials are referenced by resource identifiers and supplied by Create at runtime.
+
+These credits do not imply endorsement by any upstream author.
