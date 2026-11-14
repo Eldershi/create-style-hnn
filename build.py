@@ -11,7 +11,7 @@ from zipfile import ZipFile, ZipInfo, ZIP_DEFLATED
 
 ROOT = Path(__file__).resolve().parent
 SOURCE = ROOT / "pack"
-OUTPUT = ROOT / "dist/create-style-hnn-1.0.0.zip"
+OUTPUT = ROOT / "dist/create-style-hnn-1.0.1.zip"
 STAMP = (2020, 1, 1, 0, 0, 0)
 SUFFIXES = {".json", ".png", ".mcmeta", ".obj", ".mtl", ".txt"}
 

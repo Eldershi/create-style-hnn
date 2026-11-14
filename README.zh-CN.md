@@ -27,7 +27,7 @@
 
 1. 在启动器中选择或建立 **Minecraft 1.20.1 / Forge 47.4.10** 配置，并将运行环境设为 **Java 17**。
 2. 打开这份配置实际使用的游戏文件夹，将 **Create 6.0.8**、**HNN 5.3.3** 和 **Placebo** 的 Forge 1.20.1 版 JAR 放入其中的 `mods` 文件夹，再启动同一份配置。
-3. 从 [Releases](https://github.com/Eldershi/create-style-hnn/releases) 下载 **`create-style-hnn-1.0.0.zip`**。
+3. 从 [Releases](https://github.com/Eldershi/create-style-hnn/releases) 下载 **`create-style-hnn-1.0.1.zip`**。
 4. 在游戏中打开 **选项 → 资源包 → 打开资源包文件夹**，将下载的 ZIP 放入该文件夹，保持 ZIP 格式即可。
 5. 返回资源包页面，启用 **Create Style HNN**，并将它移到已选资源包列表顶部，使其优先于其他修改 HNN 外观的资源包；其余资源包继续保留。
 6. 点击 **完成**，等待资源重新加载。进入已安装 HNN 的世界，即可查看模拟室、战利品制造机与物品外观。

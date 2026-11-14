@@ -27,7 +27,7 @@ A Create-inspired resource pack for Hostile Neural Networks, with workshop-style
 
 1. Select or create a **Minecraft 1.20.1 / Forge 47.4.10** profile in your launcher, and choose **Java 17** as its runtime.
 2. Open that profile's game folder. Install the Forge 1.20.1 versions of **Create 6.0.8**, **Hostile Neural Networks 5.3.3** and **Placebo** in its `mods` folder. Launch this same profile.
-3. Download **`create-style-hnn-1.0.0.zip`** from [Releases](https://github.com/Eldershi/create-style-hnn/releases).
+3. Download **`create-style-hnn-1.0.1.zip`** from [Releases](https://github.com/Eldershi/create-style-hnn/releases).
 4. In Minecraft, open **Options → Resource Packs → Open Pack Folder**. Put the downloaded ZIP into that folder and keep it zipped.
 5. Return to the Resource Packs screen and enable **Create Style HNN**. Move it to the top of the selected packs so it takes priority over other HNN appearance packs; keep your other packs enabled.
 6. Click **Done** and allow resources to reload. Enter a world with HNN installed to view the Simulation Chamber, Loot Fabricator and item appearances.
