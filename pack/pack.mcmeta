@@ -1,6 +1,21 @@
 {
   "pack": {
     "pack_format": 15,
-    "description": "Create Style HNN\nCreate-style look for Hostile Neural Networks"
+    "description": "Create Style HNN\nCreate-style look for Hostile Neural Networks",
+    "supported_formats": [
+      15,
+      34
+    ]
+  },
+  "overlays": {
+    "entries": [
+      {
+        "formats": [
+          34,
+          34
+        ],
+        "directory": "overlay_1_21_1"
+      }
+    ]
   }
 }

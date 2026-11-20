@@ -1,0 +1,12 @@
+{
+  "parent": "minecraft:block/block",
+  "loader": "neoforge:composite",
+  "children": {
+    "body": {
+      "parent": "hostilenetworks:block/data_center/body"
+    }
+  },
+  "textures": {
+    "particle": "hostilenetworks:block/data_center/atlas"
+  }
+}
